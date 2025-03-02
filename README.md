@@ -25,7 +25,7 @@ This repository contains all **OpenGL SuperBible 7th Edition programs** converte
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vdudhmal/OpenGL-SuperBible7-Android.git
+    git clone https://github.com/vdudhmal/OpenGLSuperBible7-Android.git
     ```
 
 2. Open the project in **Android Studio**.
